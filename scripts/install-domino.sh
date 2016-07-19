@@ -1,7 +1,7 @@
 #
 # This script installs, configure and starts a IBM Domino server
 #
-# Copyright 2014 Bram Borggreve
+# Copyright 2016 Eric Romo
 # Distributed under the Apache License
 
 #
